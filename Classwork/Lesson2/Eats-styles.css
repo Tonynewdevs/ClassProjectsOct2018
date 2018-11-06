@@ -1,0 +1,11 @@
+ul {
+  color: red;
+}
+
+a{
+  color: blue;
+}
+
+a:hover {
+  color: red;
+}

@@ -1,0 +1,50 @@
+<!doctype html>
+<html>
+<head><titile>MY TRAVEL SITE</title></head>
+<body> <header class="hero-header">
+      <div class="hero-header-item hero-logo" aria-hidden="true">
+        <div class="hero-logo-circles">
+          <img class="hero-logo-circle" src="https://github-atom-io-herokuapp-com.freetls.fastly.net/assets/index-portal-red-semi-da1f1ae5bee20b0d72fd8852c2de4dad.svg" alt="Index portal red semi" />
+          <img class="hero-logo-circle" src="https://github-atom-io-herokuapp-com.freetls.fastly.net/assets/index-portal-red-6d2cefcab56d4530cf892d531839346a.svg" alt="Index portal red" />
+          <img class="hero-logo-circle" src="https://github-atom-io-herokuapp-com.freetls.fastly.net/assets/index-portal-orange-semi-acb82611cc3a9365076f21f8e63f19ed.svg" alt="Index portal orange semi" />
+          <img class="hero-logo-circle" src="https://github-atom-io-herokuapp-com.freetls.fastly.net/assets/index-portal-orange-c0d3d6641b744a92b63f2ba243f0e470.svg" alt="Index portal orange" />
+          <img class="hero-logo-circle" src="https://github-atom-io-herokuapp-com.freetls.fastly.net/assets/index-portal-yellow-semi-0f75649305b8323148a06cdc4edc7f76.svg" alt="Index portal yellow semi" />
+          <img class="hero-logo-circle" src="https://github-atom-io-herokuapp-com.freetls.fastly.net/assets/index-portal-yellow-f9e8ce5212004588b84a6d947569afe4.svg" alt="Index portal yellow" />
+          <img class="hero-logo-circle" src="https://github-atom-io-herokuapp-com.freetls.fastly.net/assets/index-portal-green-semi-3b8dd40b983c2aa9e344f01f61114d87.svg" alt="Index portal green semi" />
+          <img class="hero-logo-circle" src="https://github-atom-io-herokuapp-com.freetls.fastly.net/assets/index-portal-green-dc0a6ac12f7199644119b28708bd3730.svg" alt="Index portal green" />
+          <img class="hero-logo-circle" src="https://github-atom-io-herokuapp-com.freetls.fastly.net/assets/index-portal-blue-semi-0180b3c94b6e5ac9104d8ab7f9c2f937.svg" alt="Index portal blue semi" />
+          <img class="hero-logo-circle" src="https://github-atom-io-herokuapp-com.freetls.fastly.net/assets/index-portal-blue-7ae3dab5c6f591256b6351f85f5d867c.svg" alt="Index portal blue" />
+        </div>
+      </div>
+      <ul class="hero-header-item hero-download">
+  <li>
+    <img class="logo-wordmark" src="https://github-atom-io-herokuapp-com.freetls.fastly.net/assets/index-atom-wordmark-138405410928e5d741975f95e3e7be1b.svg" alt="Index atom wordmark" />
+  </li>
+  <li>
+    <span class="version">1.32.0</span>
+    <a href="/releases">Release notes</a>
+  </li>
+
+
+    <li>
+      <span class="platform">Windows</span>
+      <span class="support">For 64-bit Windows 7 or later</span>
+    </li>
+    <li>
+      <a href="/download/windows_x64" class="welcome-button js-download-button"> <span class="octicon octicon-move-down"></span>Download</a>
+    </li>
+
+
+</ul>
+
+<p class="hero-meta">
+  <span class="hero-tos">
+    By downloading, you agree to the <a href="https://help.github.com/articles/github-open-source-applications-terms-and-conditions/">Terms and Conditions</a>.
+  </span>
+  <a href="https://github.com/atom/atom/releases/latest">Other platforms</a>
+  <a href="/beta">Try Atom Beta</a>
+</p>
+
+    </header>
+<p></p></body>
+</html>

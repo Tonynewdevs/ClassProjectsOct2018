@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Nurturally</title>
+<style>
+div.gallery {
+    border: 1px solid #ccc;
+}
+
+div.gallery:hover {
+    border: 1px solid #777;
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.responsive {
+    padding: 0 6px;
+    float: left;
+    width: 24.99999%;
+}
+
+@media only screen and (max-width: 700px) {
+    .responsive {
+        width: 49.99999%;
+        margin: 6px 0;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    .responsive {
+        width: 100%;
+    }
+}
+
+.clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+body {color: green}
+h2 {color: purple}
+h4 {color: tan}
+
+</style>
+</head>
+<body>
+
+<h2>NURTURALLY</h2>
+<h4>Nurturing the mind and soul by properly nurturing the body!</h4>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="Lavender.jpeg">
+      <img src="Lavender.jpeg" alt="Lavender" width="600" height="400">
+    </a>
+    <div class="desc">Lavender</div>
+  </div>
+</div>
+
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="Hibiscus.jpg">
+      <img src="Hibiscus.jpg" alt="Lavender" width="600" height="400">
+    </a>
+    <div class="desc">Hibiscus</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="Juniper_Berries.jpg">
+      <img src="Juniper_Berries.jpg" alt="Juniper Berries" width="600" height="400">
+    </a>
+    <div class="desc">Juniper Berry</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="Green_Tea_Lemongrass.jpg">
+      <img src="Green_Tea_Lemongrass.jpg" alt="Green Tea Lemongrass" width="600" height="400">
+    </a>
+    <div class="desc">Green Tea Lemongrass</div>
+  </div>
+</div>
+
+<div class="clearfix"></div>
+
+
+
+</body>
+</html>
